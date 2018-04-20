@@ -1,5 +1,6 @@
 # custom
 .ipynb_checkpoints
+/Teacher_Resources
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
